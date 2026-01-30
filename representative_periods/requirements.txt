@@ -1,0 +1,10 @@
+matplotlib
+pandas
+numpy
+xmltodict
+openpyxl
+requests
+PyYAML
+XlsxWriter
+scipy
+tsam
