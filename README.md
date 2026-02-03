@@ -34,7 +34,7 @@ The dataset + application are stored on OneDrive and require access.
 
 Download the correct application build for your OS (Windows vs macOS).
 
-> Tip: For a public GitHub README, avoid including personal email addresses. Instead, use a GitHub Issue/Discussion or an internal onboarding doc for access requests.
+Contact: canoe-support@googlegroups.com
 
 ### 3) Representative periods code
 Representative periods repo: `CANOE-main/representative_periods`
